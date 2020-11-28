@@ -1,0 +1,9 @@
+{
+  "codeowners": ["@nxtbesu"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/nxtbesu/factura",
+  "domain": "factura",
+  "name": "Factura",
+  "requirements": []
+}
